@@ -1,0 +1,14 @@
+{
+  "name": "cmonitor",
+  "version": "1.0.0",
+  "description": "Automated searching and filtering of posts on Craigslist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Berg",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
